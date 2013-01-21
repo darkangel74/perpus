@@ -6,4 +6,7 @@ public interface BukuDAO {
     public void deleteBuku(String id);
     public void updateBuku(String oldid, Buku buku);
     public int cekBuku(Buku buku);
+    /*
+    ini hasil editan dari git hub web site
+    */
 }
