@@ -7,6 +7,6 @@ public interface BukuDAO {
     public void updateBuku(String oldid, Buku buku);
     public int cekBuku(Buku buku);
     /*
-    ini hasil editan dari git hub web site
+    ini hasil editan dari git hub web site3
     */
 }
